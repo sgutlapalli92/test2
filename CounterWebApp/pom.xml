@@ -20,7 +20,7 @@
 
 
 <scm>
-<conncection>
+<connection>
 scm:git:https://github.com/sgutlapalli92/test2.git
 </connection>
 <developerConnection>
